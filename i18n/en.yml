@@ -1,0 +1,28 @@
+name: English
+couple: Couple of the day
+shipped: Couple of the day has been chosen
+update: New couple of the day may be chosen in
+few: Insufficient data to choose a couple
+hours: 
+  - hour
+  - hours
+minutes: 
+  - minute
+  - minutes
+seconds:
+  - second
+  - seconds
+select_lang: 👋 Choose a language.
+set_lang: 👍 English has been chosen for this chat. Thank you!
+chat_only: 😅 Sorry, this command is only for chats.
+admin_lang: Only admins can change current language.
+help: |
+  💕 <b>SHIPPERING</b> is a bot that will choose a couple of the day in your chat. Everyone who writes a message in your chat will be added to the list of candidates for a couple of the day. Add this bot to your chat and wait for it to gather enough candidates before sending shipping command.
+
+  /help — This message
+  /shipping — Choose a couple of the day 
+  /lang — Choose a language for the bot (in chat only for admins)
+start: |
+  👋 Hello! <b>SHIPPERING</b> is a bot that will choose a couple of the day in your chat.
+
+  Use /help for more info.

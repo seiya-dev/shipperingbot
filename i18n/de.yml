@@ -1,0 +1,28 @@
+name: German
+couple: Paar vom Tag
+shipped: Das Paar vom Tag wurde gewählt
+update: Ein neues Paar vom Tag kann gewählt werden in
+few: Unzureichende daten um ein Paar zu wählen
+hours: 
+  - stunde
+  - stunden
+minutes: 
+  - minute
+  - minuten
+seconds:
+  - sekunde
+  - sekunden
+select_lang: 👋 Wählen sie eine Sprache.
+set_lang: 👍 Deutsch wurde für diesen Chat gewählt. Danke!
+chat_only: 😅 Tut mir leid, dieser Befehl ist nur für Chats.
+admin_lang: Nur Admins können die momentane Sprache ändern.
+help: |
+  💕 <b>SHIPPERING</b> ist ein Bot der ein Paar vom Tag in deinem Chat wählt. Alle die eine Nachricht in deinen Chat schicken werden zur Liste der Kandidaten für das Paar des Tages hinzugefügt. Füge diesen Bot deinem Chat hinzu und lasse ihn genug Kandidaten sammeln bevor du den shipping Befehl sendest.
+
+  /help — Diese Nachricht
+  /shipping — Wähle ein Paar vom Tag 
+  /lang — Wähle eine Sprache für den Bot (im Chat nur für Admins)
+start: |
+  👋 Hallo! <b>SHIPPERING</b> ist ein Bot der ein Paar vom Tag in deinem Chat wählt.
+
+  Nutze /help für mehr Info.

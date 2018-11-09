@@ -1,0 +1,28 @@
+name: Esperanto
+couple: Tagparo
+shipped: Tagparo estas elektita
+update: Nova tagparo povos elekti post
+few: Manko da datenoj por elekto de paro
+hours:
+  - horo
+  - horoj
+minutes:
+  - minuto
+  - minutoj
+seconds:
+  - sekundo
+  - sekundoj
+select_lang: 👋 Bonvolu elekti lingvon.
+set_lang: 👍 Esperanton estas elektita por la babilejo. Dankon!
+chat_only: 😅 Pardonu, la kommando laboras nur en babilejoj.
+admin_lang: Nur babilestroj povas elekti lingvon.
+help: |
+  💕 <b>SHIPPERING</b> estas roboto, kial elektas tagparo en via babilejo. Ĉiu, kiu skribis mesaĝo en via babilejo aldonigas en listo de tagparo kandidatoj. Aldonu la roboto en via babilejo kaj atendu, kiam sufiĉkvanto de kandidatoj kolektiĝos, poste sendu komandon por elekto de paro.
+
+  /help — Ĉi tiu mesaĝo
+  /shipping — Elektado de tagparo
+  /lang — Elektado de lingvo por la roboto (en babilejoj nut por babilestroj)
+start: |
+  👋 Saluton! <b>SHIPPERING<b> estas roboto, kial elektas tagparo en via babilejo.
+
+  Pli multe informoj estas en /help.

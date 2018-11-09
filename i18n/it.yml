@@ -1,0 +1,28 @@
+name: Italian
+couple: La coppia del giorno
+shipped: La coppia del giorno è stata scelta
+update: La nuova coppia del giorno potrà esser scelta in
+few: Dati insufficienti per scegliere una coppia
+hours: 
+  - ora
+  - ore
+minutes: 
+  - minuto
+  - minuti
+seconds:
+  - secondo
+  - secondi
+select_lang: 👋 Scegliere una lingua. 
+set_lang: 👍 Italiano è stato scelto per questa chat. Grazie!
+chat_only: 😅 Spiacente, questo comando funziona solo nelle chat.
+admin_lang: Gli amministratori sono gli unici a poter cambiare la lingua.
+help: |
+  💕 <b>SHIPPERING</b> è un bot che sceglierà una coppia giornaliera all'interno della tua chat. Tutti coloro che hanno scritto un messaggio all'interno della chat sarà aggiunto alla lista di candidati elegibili per la coppia del giorno. Aggiungi questo bot alla tua chat e aspetta che si raggiunga il numero minimo di partecipanti prima di mandare il comando di "shipping".
+
+  /help — Questo messaggio
+  /shipping — Scegli la coppia del giorno
+  /lang — Scegli la lingua per il bot (solo per gli amministratori)
+start: |
+  👋 Ciao! <b>SHIPPERING</b> è un bot che sceglierà una coppia giornaliera per la tua chat.
+
+  Usa /help per maggiori informazioni.

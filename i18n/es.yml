@@ -1,0 +1,28 @@
+name: Spanish
+couple: Pareja del día
+shipped: La pareja del día ha sido elegida
+update: La pareja del día puede ser elegida en
+few: Memoria insuficiente para elegir una pareja
+hours: 
+  - hora
+  - horas
+minutes: 
+  - minuto
+  - minutos
+seconds:
+  - segundo
+  - segundos
+select_lang: 👋 Elige un idioma.
+set_lang: 👍 Español ha sido elegido para este chat. Gracias!
+chat_only: 😅 Sorry, this command is only for chats.
+admin_lang: Only admins can change current language.
+help: |
+  💕 <b>SHIPPERING</b> is a bot that will choose a couple of the day in your chat. Everyone who writes a message in your chat will be added to the list of candidates for a couple of the day. Add this bot to your chat and wait for it to gather enough participants before sending shipping command.
+
+  /help — This message
+  /shipping — Choose a couple of the day 
+  /lang — Choose a language for the bot (in chat only for admins)
+start: |
+  👋 Hello! <b>SHIPPERING</b> is a bot that will choose a couple of the day in your chat.
+
+  Use /help for more info.
