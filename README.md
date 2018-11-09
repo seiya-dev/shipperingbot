@@ -1,0 +1,1 @@
+# shipperingbot-i18n
