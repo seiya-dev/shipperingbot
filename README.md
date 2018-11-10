@@ -1,1 +1,5 @@
-# shipperingbot-i18n
+# shipperingbot
+
+## i18n
+
+Language codes is ISO639-1
