@@ -21,7 +21,7 @@ help: |
 
   /help — Ĉi tiu mesaĝo
   /shipping — Elektado de tagparo
-  /last — Last chosen couples
+  /last — Lastaj electitaj paroj
   /lang — Elektado de lingvo por la roboto (en babilejoj nut por babilestroj)
 start: |
   👋 Saluton! <b>SHIPPERING<b> estas roboto, kial elektas tagparo en via babilejo.
