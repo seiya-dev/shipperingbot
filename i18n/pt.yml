@@ -31,3 +31,5 @@ last_couples: Last chosen couples
 top_lovers: Top lovers
 empty_lovers_list: Lovers top is empty
 empty_last_list: Last chosen couples list is empty
+
+# lines 24, 30, 31, 32, 33 require translating. This line can be deleted once translations have happened.
