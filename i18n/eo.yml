@@ -27,4 +27,7 @@ start: |
   👋 Saluton! <b>SHIPPERING<b> estas roboto, kial elektas tagparo en via babilejo.
 
   Pli multe informoj estas en /help.
-last_couples: Last chosen couples
+last_couples: Lastaj electitaj paroj
+top_lovers: Supro de amanto
+empty_lovers_list: Amanto de suprumo estas malplena
+empty_last_list: Listo de lastaj electitaj paroj estas malplena
