@@ -3,10 +3,10 @@ couple: زوج امروز
 shipped: زوج امروز انتخاب شده است
 update: زوج جدید امروز انتخاب میشود در
 few: اطلاعات ناکافی برای انتخاب یک زوج
-hours: 
+hours:
   - ساعت
   - ساعت ها
-minutes: 
+minutes:
   - دقیقه
   - دقایق
 seconds:
@@ -20,9 +20,11 @@ help: |
   💕 <b>SHIPPERING</b> is a bot that will choose a couple of the day in your chat. Everyone who writes a message in your chat will be added to the list of candidates for a couple of the day. Add this bot to your chat and wait for it to gather enough participants before sending shipping command.
 
   /help — This message
-  /shipping — Choose a couple of the day 
+  /shipping — Choose a couple of the day
+  /last — Last chosen couples
   /lang — Choose a language for the bot (in chat only for admins)
 start: |
   👋 Hello! <b>SHIPPERING</b> is a bot that will choose a couple of the day in your chat.
 
   Use /help for more info.
+last_couples: Last chosen couples

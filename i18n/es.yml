@@ -3,10 +3,10 @@ couple: Pareja del día
 shipped: La pareja del día ha sido elegida
 update: La pareja del día puede ser elegida en
 few: Memoria insuficiente para elegir una pareja
-hours: 
+hours:
   - hora
   - horas
-minutes: 
+minutes:
   - minuto
   - minutos
 seconds:
@@ -20,9 +20,11 @@ help: |
   💕 <b>SHIPPERING</b> is a bot that will choose a couple of the day in your chat. Everyone who writes a message in your chat will be added to the list of candidates for a couple of the day. Add this bot to your chat and wait for it to gather enough participants before sending shipping command.
 
   /help — This message
-  /shipping — Choose a couple of the day 
+  /shipping — Choose a couple of the day
+  /last — Last chosen couples
   /lang — Choose a language for the bot (in chat only for admins)
 start: |
   👋 Hello! <b>SHIPPERING</b> is a bot that will choose a couple of the day in your chat.
 
   Use /help for more info.
+last_couples: Last chosen couples

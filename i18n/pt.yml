@@ -3,26 +3,28 @@ couple: Casal do dia
 shipped: Casal do dia foi escolhido
 update: Novo casal do dia pode ser escolhido em
 few: Sem informação suficiente para escolher o casal
-hours: 
+hours:
   - hora
   - horas
-minutes: 
+minutes:
   - minuto
   - minutos
 seconds:
   - segundo
   - segundos
 select_lang: 👋 Escolha o idioma.
-set_lang: 👍 Portugues Brasileiro foi escolhido como idioma para esse chat. 
+set_lang: 👍 Portugues Brasileiro foi escolhido como idioma para esse chat.
 chat_only: 😅 Deculpe, esse comando funciona apenas em chats.
 admin_lang: Somente administradores podem mudar o idioma atual.
 help: |
   💕 <b>SHIPPERING</b> é um bot que escolhe o casal do dia no seu chat em grupo. Todos que mandarem mensagens no seu grupo serão adicionados a lista de pretendentes a casal do dia. Adicione esse bot no seu grupo e espere até ter pretendentes o suficiente antes de mandar o comando de shipar.
 
   /help — Esta mensagem
-  /shipping — Escolhe o casal do dia 
+  /shipping — Escolhe o casal do dia
+  /last — Last chosen couples
   /lang — Escolhe o idioma do bot (Só para administradores do grupo)
 start: |
   👋 Olá! <b>SHIPPERING</b> é um bot que escolhe o casal do dia no seu chat em grupo.
 
   Use /help para mais informações.
+last_couples: Last chosen couples

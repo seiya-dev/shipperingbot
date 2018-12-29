@@ -3,9 +3,9 @@ couple: 本日のカップル
 shipped: 本日のカップルはもう選ばれています
 update: カップルをまた選べるまでは後
 few: カップルを選ぶためにデータが足りません
-hours: 
+hours:
   - 時
-minutes: 
+minutes:
   - 分
 seconds:
   - 秒間
@@ -17,9 +17,11 @@ help: |
   💕 <b>SHIPPERING</b> is a bot that will choose a couple of the day in your chat. Everyone who writes a message in your chat will be added to the list of candidates for a couple of the day. Add this bot to your chat and wait for it to gather enough participants before sending shipping command.
 
   /help — This message
-  /shipping — Choose a couple of the day 
+  /shipping — Choose a couple of the day
+  /last — Last chosen couples
   /lang — Choose a language for the bot (in chat only for admins)
 start: |
   👋 Hello! <b>SHIPPERING</b> is a bot that will choose a couple of the day in your chat.
 
   Use /help for more info.
+last_couples: Last chosen couples
