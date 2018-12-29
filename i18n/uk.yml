@@ -31,3 +31,6 @@ start: |
 
   Більше інформації в /help.
 last_couples: Нещодавно обрані пари
+top_lovers: Топ коханців
+empty_lovers_list: В топі коханців порожньо
+empty_last_list: В «нещодавно обраних парах» порожньо
