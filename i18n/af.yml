@@ -28,3 +28,6 @@ start: |
 
   Gebruik /help vir meer inligting.
 last_couples: Vorige paartjies
+top_lovers: Beste paartjies
+empty_lovers_list: Die paartjie lys is leeg
+empty_last_list: Die vorige paartjie lys is leeg
