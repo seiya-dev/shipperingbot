@@ -2,7 +2,7 @@ name: Spanish
 couple: Pareja del día
 shipped: La pareja del día ha sido elegida
 update: La pareja del día puede ser elegida en
-few: Memoria insuficiente para elegir una pareja
+few: Datos insuficientes para elegir una pareja
 hours:
   - hora
   - horas
@@ -13,18 +13,21 @@ seconds:
   - segundo
   - segundos
 select_lang: 👋 Elige un idioma.
-set_lang: 👍 Español ha sido elegido para este chat. Gracias!
-chat_only: 😅 Sorry, this command is only for chats.
-admin_lang: Only admins can change current language.
+set_lang: 👍 Español ha sido elegido para este chat. ¡Gracias!
+chat_only: 😅 Lo siento, este comando es solo para chats.
+admin_lang: Solo los admins pueden cambiar el idioma.
 help: |
-  💕 <b>SHIPPERING</b> is a bot that will choose a couple of the day in your chat. Everyone who writes a message in your chat will be added to the list of candidates for a couple of the day. Add this bot to your chat and wait for it to gather enough participants before sending shipping command.
+  💕 <b>SHIPPERING</b> es un bot que elegirá una pareja del día en tu chat. Todo el mundo que escriba un mensaje se añadirá a la lista de candidatos para la pareja del día. Añade este bot a tu chat y espera a que recopile suficientes participantes antes de utilizar el comando de shipping.
 
-  /help — This message
-  /shipping — Choose a couple of the day
-  /last — Last chosen couples
-  /lang — Choose a language for the bot (in chat only for admins)
+  /help — Este mensaje
+  /shipping — Elige la pareja del día
+  /last — Últimas parejas elegidas
+  /lang — Elige un idioma para este bot (solo usable en chat por admins)
 start: |
-  👋 Hello! <b>SHIPPERING</b> is a bot that will choose a couple of the day in your chat.
+  👋 ¡Hola! <b>SHIPPERING</b> es un bot que elegirá la pareja del día en tu chat.
 
-  Use /help for more info.
-last_couples: Last chosen couples
+  Use /help para más información.
+last_couples: Últimas parejas elegidas
+top_lovers: Mejores amantes
+empty_lovers_list: La lista de mejores amantes está vacía
+empty_last_list: La lista de últimas parejas está vacía
