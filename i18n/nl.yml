@@ -2,7 +2,7 @@ name: Dutch
 couple: Koppel van de dag
 shipped: Koppel van de dag is gekozen
 update: Nieuw koppel van de dag kan gekozen worden
-few: Niet genoeg data om een koppel te kiezen
+few: Niet genoeg data om een koppel te kiezen.
 hours:
   - uur
   - uren

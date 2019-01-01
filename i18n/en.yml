@@ -2,7 +2,7 @@ name: English
 couple: Couple of the day
 shipped: Couple of the day has been chosen
 update: New couple of the day may be chosen in
-few: Insufficient data to choose a couple
+few: Insufficient data to choose a couple.
 hours:
   - hour
   - hours
@@ -29,5 +29,5 @@ start: |
   Use /help for more info.
 last_couples: Last chosen couples
 top_lovers: Top lovers
-empty_lovers_list: Lovers top is empty
-empty_last_list: Last chosen couples list is empty
+empty_lovers_list: Lovers top is empty.
+empty_last_list: Last chosen couples list is empty.

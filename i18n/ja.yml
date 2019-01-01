@@ -2,7 +2,7 @@ name: Japanese
 couple: 本日のカップル
 shipped: 本日のカップルはもう選ばれています
 update: カップルをまた選べるまでは後
-few: カップルを選ぶためにデータが足りません
+few: カップルを選ぶためにデータが足りません。
 hours:
   - 時
 minutes:

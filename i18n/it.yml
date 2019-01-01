@@ -2,7 +2,7 @@ name: Italian
 couple: La coppia del giorno
 shipped: La coppia del giorno è stata scelta
 update: La nuova coppia del giorno potrà esser scelta in
-few: Dati insufficienti per scegliere una coppia
+few: Dati insufficienti per scegliere una coppia.
 hours:
   - ora
   - ore

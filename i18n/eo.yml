@@ -2,7 +2,7 @@ name: Esperanto
 couple: Tagparo
 shipped: Tagparo estas elektita
 update: Nova tagparo povos elekti post
-few: Manko da datenoj por elekto de paro
+few: Manko da datenoj por elekto de paro.
 hours:
   - horo
   - horoj
@@ -29,5 +29,5 @@ start: |
   Pli multe informoj estas en /help.
 last_couples: Lastaj electitaj paroj
 top_lovers: Supro de amanto
-empty_lovers_list: Amanto de suprumo estas malplena
-empty_last_list: Listo de lastaj electitaj paroj estas malplena
+empty_lovers_list: Amanto de suprumo estas malplena.
+empty_last_list: Listo de lastaj electitaj paroj estas malplena.

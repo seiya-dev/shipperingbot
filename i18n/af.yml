@@ -2,7 +2,7 @@ name: Afrikaans
 couple: Paartjie van die dag
 shipped: Die paartjie van die dag is gekies
 update: "'n Nuwe paartjie mag gekies word in"
-few: Nie genoeg kandidate om 'n paartjie te skep nie
+few: Nie genoeg kandidate om 'n paartjie te skep nie.
 hours:
   - uur
   - ure
@@ -29,5 +29,5 @@ start: |
   Gebruik /help vir meer inligting.
 last_couples: Vorige paartjies
 top_lovers: Beste paartjies
-empty_lovers_list: Die paartjie lys is leeg
-empty_last_list: Die vorige paartjie lys is leeg
+empty_lovers_list: Die paartjie lys is leeg.
+empty_last_list: Die vorige paartjie lys is leeg.

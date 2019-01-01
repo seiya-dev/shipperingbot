@@ -2,7 +2,7 @@ name: French
 couple: Le couple du jour
 shipped: Le couple du jour a été choisi
 update: Le nouveau couple de la journée sera choisi dans
-few: Données insuffisantes pour choisir une paire
+few: Données insuffisantes pour choisir une paire.
 hours:
   - heure
   - heures

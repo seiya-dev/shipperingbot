@@ -2,7 +2,7 @@ name: Spanish
 couple: Pareja del día
 shipped: La pareja del día ha sido elegida
 update: La pareja del día puede ser elegida en
-few: Datos insuficientes para elegir una pareja
+few: Datos insuficientes para elegir una pareja.
 hours:
   - hora
   - horas
@@ -29,5 +29,5 @@ start: |
   Use /help para más información.
 last_couples: Últimas parejas elegidas
 top_lovers: Mejores amantes
-empty_lovers_list: La lista de mejores amantes está vacía
-empty_last_list: La lista de últimas parejas está vacía
+empty_lovers_list: La lista de mejores amantes está vacía.
+empty_last_list: La lista de últimas parejas está vacía.
