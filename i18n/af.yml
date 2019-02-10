@@ -26,6 +26,7 @@ help: |
   /top — Top lovers
   /autopin — Autopin (silently) when pair was chosen (bot must be admin)
   /setminusers — Set minimum users to choose a pair
+  /ignoreme — Sit jouself op die ignoreer lys (Globaal, werk net as 'n direkte boodskap)
 start: |
   👋 Goeie dag! <b>SHIPPERING</b> is 'n robot wat 'n paartjie vir die dag in jou groep sal skep.
 
@@ -34,3 +35,31 @@ last_couples: Vorige paartjies
 top_lovers: Beste paartjies
 empty_lovers_list: Die paartjie lys is leeg.
 empty_last_list: Die vorige paartjie lys is leeg.
+set_min_users: |
+  Kies die minimum hoeveelheid van deelnemers
+  Huidige — %d
+admin_set_min_users: Net administrasie mag die minimum hoeveelheid van deelnemers verander.
+min_users: 'minimum hoeveelheid van deelnemers: %d'
+times:
+  - tyd
+  - tye
+chats:
+  - groep
+  - groepe
+stats: Jou statistieke
+chosen: Jy was gekies
+chosen_global: Jy was gekies
+total_chats: Totale groepe met hierdie robot
+in: in
+autopin_enabled: Outomatiese spelding is aktief
+autopin_disabled: Outomatiese spelding is inaktief
+autopin_enable: Outomatiese spelding aktivering suksesvol
+autopin_disable: Outomatiese spelding onaktivering suksesvol
+enable: aktiveer
+disable: onaktiveer
+admin_autopin: Net administrasie mag die outomatiese spelding instellings verander.
+ignore_enabled: Ignoreer is aktief
+ignore_disabled: Ignoreer is onaktief
+ignore_enable: Ignoreer aktivering suksesvol
+ignore_disable: Ignoreer onaktivering suksesvol
+pm_only: Hierdie bevel werk net as 'n direkte boodskap.
