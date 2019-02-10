@@ -23,6 +23,9 @@ help: |
   /shipping — إختر ثنائي اليوم
   /last — Last chosen couples
   /lang — إختر لغة البوت (لمدراء المحادثات فقط)
+  /top — Top lovers
+  /autopin — Autopin (silently) when pair was chosen (bot must be admin)
+  /setminusers — Set minimum users to choose a pair
 start: |
   👋 مرحبا! <b>SHIPPERING<b> هو بوت لإختيار ثنائي اليوم في المحادثات.
 

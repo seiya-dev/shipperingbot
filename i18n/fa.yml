@@ -23,6 +23,9 @@ help: |
   /shipping — Choose a couple of the day
   /last — Last chosen couples
   /lang — Choose a language for the bot (in chat only for admins)
+  /top — Top lovers
+  /autopin — Autopin (silently) when pair was chosen (bot must be admin)
+  /setminusers — Set minimum users to choose a pair
 start: |
   👋 Hello! <b>SHIPPERING</b> is a bot that will choose a couple of the day in your chat.
 

@@ -23,6 +23,9 @@ help: |
   /shipping — Kies een koppel van de dag
   /last — Last chosen couples
   /lang — Kies een taal voor de bot (in chat alleen voor admins)
+  /top — Top lovers
+  /autopin — Autopin (silently) when pair was chosen (bot must be admin)
+  /setminusers — Set minimum users to choose a pair
 start: |
   👋 Hallo! <b>SHIPPERING</b> is een bot die een koppel van de dag zal kiezen in uw chat.
 

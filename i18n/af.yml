@@ -23,6 +23,9 @@ help: |
   /shipping — Kies 'n paartjie vir die dag
   /last — Die vorige gekiesde paartjies
   /lang — Kies 'n taal vir hierdie robot (net vir die groep administrasie)
+  /top — Top lovers
+  /autopin — Autopin (silently) when pair was chosen (bot must be admin)
+  /setminusers — Set minimum users to choose a pair
 start: |
   👋 Goeie dag! <b>SHIPPERING</b> is 'n robot wat 'n paartjie vir die dag in jou groep sal skep.
 

@@ -23,6 +23,9 @@ help: |
   /shipping — Elektado de tagparo
   /last — Lastaj electitaj paroj
   /lang — Elektado de lingvo por la roboto (en babilejoj nut por babilestroj)
+  /top — Top lovers
+  /autopin — Autopin (silently) when pair was chosen (bot must be admin)
+  /setminusers — Set minimum users to choose a pair
 start: |
   👋 Saluton! <b>SHIPPERING<b> estas roboto, kial elektas tagparo en via babilejo.
 
