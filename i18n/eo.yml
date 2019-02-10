@@ -2,7 +2,7 @@ name: Esperanto
 couple: Tagparo
 shipped: Tagparo estas elektita
 update: Nova tagparo povos elekti post
-few: Manko da datenoj por elekto de paro.
+few: Manko da partoprenantoj por elektado de paro.
 hours:
   - horo
   - horoj
@@ -17,15 +17,16 @@ set_lang: 👍 Esperanto estas elektita por la babilejo. Dankon!
 chat_only: 😅 Pardonu, la kommando laboras nur en babilejoj.
 admin_lang: Nur babilestroj povas elekti lingvon.
 help: |
-  💕 <b>SHIPPERING</b> estas roboto, kial elektas tagparo en via babilejo. Ĉiu, kiu skribis mesaĝo en via babilejo aldonigas en listo de tagparo kandidatoj. Aldonu la roboto en via babilejo kaj atendu, kiam sufiĉkvanto de kandidatoj kolektiĝos, poste sendu komandon por elekto de paro.
+  💕 <b>SHIPPERING</b> estas roboto, kial elektas tagparon en via babilejo. Ĉiu, kiu skribis mesaĝon en via babilejo aldonigas en listo de kandidatoj por tagparo. Aldonu la roboto en via babilejo kaj atendu, kiam sufiĉkvanto de kandidatoj kolektiĝos, poste sendu komandon por elektado de paro.
 
   /help — Ĉi tiu mesaĝo
   /shipping — Elektado de tagparo
   /last — Lastaj electitaj paroj
   /lang — Elektado de lingvo por la roboto (en babilejoj nut por babilestroj)
-  /top — Top lovers
-  /autopin — Autopin (silently) when pair was chosen (bot must be admin)
-  /setminusers — Set minimum users to choose a pair
+  /top — Supro de amanto
+  /autopin —  Memfiksi (silente) kial paro estas electita (roboto devas esti babilestro)
+  /setminusers — Difini minimumkvanton partoprenantoj por electado de paro
+  /ignoreme — Aldoni min en ignorlisto (globalalisto laboras nur en pm-o)
 start: |
   👋 Saluton! <b>SHIPPERING<b> estas roboto, kial elektas tagparo en via babilejo.
 
@@ -34,3 +35,31 @@ last_couples: Lastaj electitaj paroj
 top_lovers: Supro de amanto
 empty_lovers_list: Amanto de suprumo estas malplena.
 empty_last_list: Listo de lastaj electitaj paroj estas malplena.
+set_min_users: |
+  Electu minimumkvanton da partoprenantoj
+  Nun — %d
+admin_set_min_users: Nur babilestroj povas ŝanĝi minimumkvanton da partoprenantoj.
+min_users: 'Minimumkvanto da partoprenantoj: %d'
+times:
+  - fojo
+  - fojoj
+chats:
+  - babilejo
+  - babilejoj
+stats: Via statistiko
+chosen: Vi estis electita
+chosen_global: Vi estis electita
+total_chats: Entute babilejoj kun roboto
+in: en
+autopin_enabled: Memfikso estas ŝaltita
+autopin_disabled: Memfikso estas malŝaltita
+autopin_enable: Memfikson ŝaltis sukcese
+autopin_disable: Memfikson malŝaltis sukcese
+enable: ŝalte
+disable: malŝaltis
+admin_autopin: Nur babilestroj povas ŝanĝi agordon de memfikso.
+ignore_enabled: Ignorado estas ŝaltita
+ignore_disabled: Ignorado estas malŝaltita
+ignore_enable: Ignoradon ŝaltis sukcese
+ignore_disable: Ignoradon malŝaltis sukcese
+pm_only: Tiu ĉi comando laboras nur en pm-o.
