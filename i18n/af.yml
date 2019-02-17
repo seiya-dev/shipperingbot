@@ -46,11 +46,13 @@ times:
 chats:
   - groep
   - groepe
-stats: Jou statistieke
-chosen: Jy was gekies
-chosen_global: Jy was gekies
-total_chats: Totale groepe met hierdie robot
-in: in
+stats: |
+  Jou statistieke:
+  Jy was gekies %s
+global_stats: |
+  Jou statistieke:
+  Totale groepe met hierdie robot — %d
+  Jy was gekies %s in %s
 autopin_enabled: Outomatiese spelding is aktief
 autopin_disabled: Outomatiese spelding is inaktief
 autopin_enable: Outomatiese spelding aktivering suksesvol
