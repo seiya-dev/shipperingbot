@@ -26,6 +26,7 @@ help: |
   /top — Top lovers (Coloro che son stati accoppiati maggiormente)
   /autopin — Autopin (silenziosamente) quando la coppia viene scelta (il bot deve essere admin)
   /setminusers — Imposta il numero minimo di utenti per far partire e funzionare il bot
+  /ignoreme — Aggiungiti alla lista di utenti da ignorare per gli accoppiamenti (globale, funziona solo tramite messaggio privato)
 start: |
   👋 Ciao! <b>SHIPPERING</b> è un bot che sceglierà una coppia giornaliera per la tua chat.
 
