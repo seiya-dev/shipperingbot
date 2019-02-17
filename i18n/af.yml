@@ -27,6 +27,7 @@ help: |
   /autopin — Autopin (silently) when pair was chosen (bot must be admin)
   /setminusers — Set minimum users to choose a pair
   /ignoreme — Sit jouself op die ignoreer lys (Globaal, werk net as 'n direkte boodskap)
+  /mystats — Jou statistieke
 start: |
   👋 Goeie dag! <b>SHIPPERING</b> is 'n robot wat 'n paartjie vir die dag in jou groep sal skep.
 
