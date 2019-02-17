@@ -57,11 +57,13 @@ autopin_enabled: Outomatiese spelding is aktief
 autopin_disabled: Outomatiese spelding is inaktief
 autopin_enable: Outomatiese spelding aktivering suksesvol
 autopin_disable: Outomatiese spelding onaktivering suksesvol
-enable: aktiveer
-disable: onaktiveer
+autopin_button_enable: aktiveer
+autopin_button_disable: onaktiveer
 admin_autopin: Net administrasie mag die outomatiese spelding instellings verander.
 ignore_enabled: Ignoreer is aktief
 ignore_disabled: Ignoreer is onaktief
 ignore_enable: Ignoreer aktivering suksesvol
 ignore_disable: Ignoreer onaktivering suksesvol
+ignore_button_enable: sluit my in
+ignore_button_disable: verwyder my
 pm_only: Hierdie bevel werk net as 'n direkte boodskap.
