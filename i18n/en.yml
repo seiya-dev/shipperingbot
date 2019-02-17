@@ -63,8 +63,8 @@ autopin_button_disable: disable
 admin_autopin: Only admins can change autopin settings.
 ignore_enabled: You are in ignore list.
 ignore_disabled: You are not in ignore list.
-ignore_enable: You was added in ignore list.
-ignore_disable: You was removed from ignore list.
+ignore_enable: You were added in ignore list.
+ignore_disable: You were removed from ignore list.
 ignore_button_enable: add me
 ignore_button_disable: remove me
 pm_only: This command works only in pm.
