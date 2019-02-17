@@ -39,27 +39,31 @@ set_min_users: |
   Electu minimumkvanton da partoprenantoj
   Nun — %d
 admin_set_min_users: Nur babilestroj povas ŝanĝi minimumkvanton da partoprenantoj.
-min_users: 'Minimumkvanto da partoprenantoj: %d'
+min_users: 'Minimumkvanto da partoprenantoj — %d'
 times:
   - fojo
   - fojoj
 chats:
   - babilejo
   - babilejoj
-stats: Via statistiko
-chosen: Vi estis electita
-chosen_global: Vi estis electita
-total_chats: Entute babilejoj kun roboto
-in: en
+stats: |
+  Via statistiko:
+  Vi estas electita %s
+global_status: |
+  Via statistiko:
+  Tute babilejoj kun la roboto — %d
+  Vi estas electita %s en %s
 autopin_enabled: Memfikso estas ŝaltita
 autopin_disabled: Memfikso estas malŝaltita
 autopin_enable: Memfikson ŝaltis sukcese
 autopin_disable: Memfikson malŝaltis sukcese
-enable: ŝalte
-disable: malŝaltis
+autopin_button_enable: ŝaltita
+autopin_button_disable: malŝaltita
 admin_autopin: Nur babilestroj povas ŝanĝi agordon de memfikso.
 ignore_enabled: Ignorado estas ŝaltita
 ignore_disabled: Ignorado estas malŝaltita
 ignore_enable: Ignoradon ŝaltis sukcese
 ignore_disable: Ignoradon malŝaltis sukcese
+ignore_button_enable: aldoni min
+ignore_button_disable: forigi min
 pm_only: Tiu ĉi comando laboras nur en pm-o.
