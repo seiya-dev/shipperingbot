@@ -1,4 +1,4 @@
-name: Italian
+﻿name: Italian
 couple: La coppia del giorno
 shipped: La coppia del giorno è stata scelta
 update: La nuova coppia del giorno potrà esser scelta in
@@ -23,11 +23,11 @@ help: |
   /shipping — Scegli la coppia del giorno
   /last — Last chosen couples
   /lang — Scegli la lingua per il bot (solo per gli amministratori)
-  /top — Top lovers
-  /autopin — Autopin (silently) when pair was chosen (bot must be admin)
-  /setminusers — Set minimum users to choose a pair
+  /top — Top lovers (Coloro che son stati accoppiati maggiormente)
+  /autopin — Autopin (silenziosamente) quando la coppia viene scelta (il bot deve essere admin)
+  /setminusers — Imposta il numero minimo di utenti per far partire e funzionare il bot
 start: |
   👋 Ciao! <b>SHIPPERING</b> è un bot che sceglierà una coppia giornaliera per la tua chat.
 
   Usa /help per maggiori informazioni.
-last_couples: Last chosen couples
+last_couples: Le coppie scelte negli ultimi giorni

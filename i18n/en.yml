@@ -2,7 +2,7 @@ name: English
 couple: Couple of the day
 shipped: Couple of the day has been chosen
 update: New couple of the day may be chosen in
-few: Insufficient data to choose a couple.
+few: Insufficient participants to choose a couple.
 hours:
   - hour
   - hours
@@ -25,7 +25,7 @@ help: |
   /lang — Choose a language for the bot (in chat only for admins)
   /top — Top lovers
   /autopin — Autopin (silently) when pair was chosen (bot must be admin)
-  /setminusers — Set minimum users to choose a pair
+  /setminusers — Set minimum participants to choose a pair
   /ignoreme — Add yourself to ignore list (global, works only in pm)
 start: |
   👋 Hello! <b>SHIPPERING</b> is a bot that will choose a couple of the day in your chat.
@@ -36,30 +36,32 @@ top_lovers: Top lovers
 empty_lovers_list: Lovers top is empty.
 empty_last_list: Last chosen couples list is empty.
 set_min_users: |
-  Choose minimum number of participants
+  Choose minimum number of participants.
   Current — %d
 admin_set_min_users: Only admins can change minimum number of participants.
-min_users: 'Minimum number of participants: %d'
+min_users: 'Minimum number of participants — %d'
 times:
   - time
   - times
 chats:
   - chat
   - chats
-stats: Your stats
-chosen: You've been chosen
-chosen_global: You've been chosen
-total_chats: Total chats with bot
-in: in
-autopin_enabled: Autopin is enabled
-autopin_disabled: Autopin is disabled
-autopin_enable: Autopin enabled successfully
-autopin_disable: Autopin disabled successfully
+stats: |
+  Your stats:
+  You've been chosen %s
+global_stats: |
+  Your stats:
+  Total chats with bot — %d
+  You've been chosen %s in %s
+autopin_enabled: Autopin is enabled.
+autopin_disabled: Autopin is disabled.
+autopin_enable: Autopin enabled successfully.
+autopin_disable: Autopin disabled successfully.
 enable: enable
 disable: disable
 admin_autopin: Only admins can change autopin settings.
-ignore_enabled: Ignore is enabled
-ignore_disabled: Ignore is disabled
-ignore_enable: Ignore enabled successfully
-ignore_disable: Ignore disabled successfully
+ignore_enabled: Ignore is enabled.
+ignore_disabled: Ignore is disabled.
+ignore_enable: Ignore enabled successfully.
+ignore_disable: Ignore disabled successfully.
 pm_only: This command works only in pm.
