@@ -31,3 +31,38 @@ start: |
 
   Usa /help per maggiori informazioni.
 last_couples: Le coppie scelte negli ultimi giorni
+top_lovers: Top lovers (coloro scelti il maggior numero di volte).
+empty_lovers_list: Classifica è vuota.
+empty_last_list: La lista delle coppie recenti è vuota.
+set_min_users: |
+  Scegli il numero minimo di partecipanti.
+  Attuale numero — %d
+admin_set_min_users: Solo gli amministratori possono scegliere il numero minimo di partecipanti.
+min_users: 'Numero minimo di partecipanti — %d'
+times:
+  - volta
+  - volte
+chats:
+  - chat
+  - chat
+stats: |
+  Le tue statistiche:
+  Sei stato scelto %s
+global_stats: |
+  Le tue statistiche:
+  Tutte le chat con questo bot — %d
+  Sei stato scelto %s su %s
+autopin_enabled: Autopin è abilitato.
+autopin_disabled: Autopin è disabilitato.
+autopin_enable: Autopin abilitato con successo.
+autopin_disable: Autopin disabilitato con successo.
+autopin_button_enable: abilita
+autopin_button_disable: disabilita
+admin_autopin: Solo gli amministratori possono cambiare le impostazioni per l'autopin.
+ignore_enabled: Sei nella lista di utenti che il bot deve ignorare.
+ignore_disabled: Non sei nella lista di utenti che il bot deve ignorare.
+ignore_enable: Aggiunto alla lista di utenti che il bot deve ignorare.
+ignore_disable: Rimosto dalla lista di utenti che il bot deve ignorare.
+ignore_button_enable: aggiungimi
+ignore_button_disable: rimuovimi
+pm_only: Questo comando funziona esclusivamente nei messaggi privati col bot.
