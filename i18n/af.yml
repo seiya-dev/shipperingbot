@@ -23,9 +23,10 @@ help: |
   /shipping — Kies 'n paartjie vir die dag
   /last — Die vorige gekiesde paartjies
   /lang — Kies 'n taal vir hierdie robot (net vir die groep administrasie)
-  /top — Top lovers
-  /autopin — Autopin (silently) when pair was chosen (bot must be admin)
-  /setminusers — Set minimum users to choose a pair
+  /top — Beste paartjies
+  /mystats — Jou statistieke
+  /autopin — Outomatiese spelding (saggies) wanneet 'n nuwe paartjie gekies word (robot moet in administrasie wees)
+  /setminusers — Stel die minimum deelnemers om 'n paartjie te maak
   /ignoreme — Sit jouself op die ignoreer lys (Globaal, werk net as 'n direkte boodskap)
   /mystats — Jou statistieke
 start: |
