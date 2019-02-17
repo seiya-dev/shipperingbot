@@ -1,7 +1,7 @@
 name: Spanish
 couple: Pareja del día
 shipped: La pareja del día ha sido elegida
-update: La pareja del día puede ser elegida en
+update: La pareja del día será elegida en
 few: Datos insuficientes para elegir una pareja.
 hours:
   - hora
@@ -14,23 +14,57 @@ seconds:
   - segundos
 select_lang: 👋 Elige un idioma.
 set_lang: 👍 Español ha sido elegido para este chat. ¡Gracias!
-chat_only: 😅 Lo siento, este comando es solo para chats.
-admin_lang: Solo los admins pueden cambiar el idioma.
+chat_only: 😅 Lo siento, este comando solo funciona en chats.
+admin_lang: Solo los administradores pueden cambiar el idioma.
 help: |
-  💕 <b>SHIPPERING</b> es un bot que elegirá una pareja del día en tu chat. Todo el mundo que escriba un mensaje se añadirá a la lista de candidatos para la pareja del día. Añade este bot a tu chat y espera a que recopile suficientes participantes antes de utilizar el comando de shipping.
+  💕 <b>SHIPPERING</b> es un bot que elegirá una pareja del día en tu grupo. Todo el mundo que escriba un mensaje será añadido a la lista de candidatos para la posible pareja del día. Añade este bot a tu chat y espera a que añada suficientes participantes antes de utilizar el comando de shipping.
 
-  /help — Este mensaje
+  /help — Ayuda
   /shipping — Elige la pareja del día
   /last — Últimas parejas elegidas
-  /lang — Elige un idioma para este bot (solo usable en chat por admins)
-  /top — Top lovers
-  /autopin — Autopin (silently) when pair was chosen (bot must be admin)
-  /setminusers — Set minimum users to choose a pair
+  /lang — Elige un idioma para este bot (solo usable en chat por administradores)
+  /top — Los mejores amantes
+  /mystats — Tus estadísticas
+  /autopin — Autoanclado (silencioso) cuando una nueva pareja es elegida (el bot debe ser administrador)
+  /setminusers — Determina un mínimo de participantes para poder elegir una pareja
+  /ignoreme — Le añade a la lista de ignorados, siendo no elegible (global, este comando solo funciona en chat privado)
 start: |
   👋 ¡Hola! <b>SHIPPERING</b> es un bot que elegirá la pareja del día en tu chat.
 
   Use /help para más información.
 last_couples: Últimas parejas elegidas
 top_lovers: Mejores amantes
-empty_lovers_list: La lista de mejores amantes está vacía.
-empty_last_list: La lista de últimas parejas está vacía.
+empty_lovers_list: La lista de mejores amantes está vacía
+empty_last_list: La lista de las últimas parejas está vacía
+set_min_users: |
+  Elige un número mínimo de participantes.
+  Participantes — %d
+admin_set_min_users: Solo los administradores pueden cambiar el número mínimo de participantes.
+min_users: 'Mínimo número de participantes — %d'
+times:
+  - vez
+  - veces
+chats:
+  - chat
+  - chats
+stats: |
+  Tus estadísticas:
+  Has sido elegido %s
+global_stats: |
+  Tus estadísticas:
+  Chats en el que eres partícipe — %d
+  Has sido elegido %s en %s
+autopin_enabled: Autoanclado habilitado.
+autopin_disabled: Autoanclado deshabilitado.
+autopin_enable: Autoanclado habilitado con éxito.
+autopin_disable: Autoanclado deshabilitado con éxito.
+autopin_button_enable: Habilitar
+autopin_button_disable: Deshabilitar
+admin_autopin: Solo los administradores pueden cambiar las opciones del autoanclado.
+ignore_enabled: Estás en la lista de ignorados, no eres elegible.
+ignore_disabled: No estás en la lista de ignorados, eres elegible.
+ignore_enable: Fuíste añadido a la lista de ignorados, no eres elegible.
+ignore_disable: Fuíste eliminado de la lista de ignorados, eres elegible.
+ignore_button_enable: Añádeme
+ignore_button_disable: Bórrame
+pm_only: Este comando solo funciona en mensaje privado.
