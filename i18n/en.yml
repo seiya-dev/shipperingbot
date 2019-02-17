@@ -57,11 +57,13 @@ autopin_enabled: Autopin is enabled.
 autopin_disabled: Autopin is disabled.
 autopin_enable: Autopin enabled successfully.
 autopin_disable: Autopin disabled successfully.
-enable: enable
-disable: disable
+autopin_button_enable: enable
+autopin_button_disable: disable
 admin_autopin: Only admins can change autopin settings.
-ignore_enabled: Ignore is enabled.
-ignore_disabled: Ignore is disabled.
-ignore_enable: Ignore enabled successfully.
-ignore_disable: Ignore disabled successfully.
+ignore_enabled: You are in ignore list.
+ignore_disabled: You are not in ignore list.
+ignore_enable: You was added in ignore list.
+ignore_disable: You was removed in ignore list.
+ignore_button_enable: add me
+ignore_button_disable: remove me
 pm_only: This command works only in pm.

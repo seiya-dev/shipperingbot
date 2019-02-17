@@ -61,11 +61,13 @@ autopin_enabled: Автопин включен.
 autopin_disabled: Автопин выключен.
 autopin_enable: Автопин включен.
 autopin_disable: Автопин выключен.
-enable: включить
-disable: выключить
+autopin_button_enable: включить
+autopin_button_disable: выключить
 admin_autopin: Только админы могут менять настройки автопина.
 ignore_enabled: Вас нет в списке игнорируемых.
 ignore_disabled: Вы в списке игнорируемых.
 ignore_enable: Вы добавлены в список игнорируемых.
 ignore_disable: Вы исключены из списка игнорируемых.
+ignore_button_enable: добавь меня
+ignore_button_disable: исключи меня
 pm_only: Эта команда работает только в личных сообщениях.
