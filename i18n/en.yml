@@ -36,10 +36,10 @@ top_lovers: Top lovers
 empty_lovers_list: Lovers top is empty.
 empty_last_list: Last chosen couples list is empty.
 set_min_users: |
-  Choose minimum number of participants
+  Choose minimum number of participants.
   Current — %d
 admin_set_min_users: Only admins can change minimum number of participants.
-min_users: 'Minimum number of participants: %d'
+min_users: 'Minimum number of participants — %d'
 times:
   - time
   - times
@@ -53,15 +53,15 @@ global_stats: |
   Your stats:
   Total chats with bot — %d
   You've been chosen %s in %s
-autopin_enabled: Autopin is enabled
-autopin_disabled: Autopin is disabled
-autopin_enable: Autopin enabled successfully
-autopin_disable: Autopin disabled successfully
+autopin_enabled: Autopin is enabled.
+autopin_disabled: Autopin is disabled.
+autopin_enable: Autopin enabled successfully.
+autopin_disable: Autopin disabled successfully.
 enable: enable
 disable: disable
 admin_autopin: Only admins can change autopin settings.
-ignore_enabled: Ignore is enabled
-ignore_disabled: Ignore is disabled
-ignore_enable: Ignore enabled successfully
-ignore_disable: Ignore disabled successfully
+ignore_enabled: Ignore is enabled.
+ignore_disabled: Ignore is disabled.
+ignore_enable: Ignore enabled successfully.
+ignore_disable: Ignore disabled successfully.
 pm_only: This command works only in pm.
