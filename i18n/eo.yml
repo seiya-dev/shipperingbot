@@ -24,6 +24,7 @@ help: |
   /last — Lastaj electitaj paroj
   /lang — Elektado de lingvo por la roboto (en babilejoj nut por babilestroj)
   /top — Supro de amanto
+  /mystats — Mia statistiko
   /autopin —  Memfiksi (silente) kial paro estas electita (roboto devas esti babilestro)
   /setminusers — Difini minimumkvanton partoprenantoj por electado de paro
   /ignoreme — Aldoni min en ignorlisto (globalalisto laboras nur en pm-o)
