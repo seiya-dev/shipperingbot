@@ -24,6 +24,7 @@ help: |
   /last — Last chosen couples
   /lang — Choose a language for the bot (in chat only for admins)
   /top — Top lovers
+  /mystats — Your stats
   /autopin — Autopin (silently) when pair was chosen (bot must be admin)
   /setminusers — Set minimum participants to choose a pair
   /ignoreme — Add yourself to ignore list (global, works only in pm)
