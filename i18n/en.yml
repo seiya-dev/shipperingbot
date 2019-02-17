@@ -46,11 +46,13 @@ times:
 chats:
   - chat
   - chats
-stats: Your stats
-chosen: You've been chosen
-chosen_global: You've been chosen
-total_chats: Total chats with bot
-in: in
+stats: |
+  Your stats:
+  You've been chosen %s
+global_stats: |
+  Your stats:
+  Total chats with bot — %d
+  You've been chosen %s in %s
 autopin_enabled: Autopin is enabled
 autopin_disabled: Autopin is disabled
 autopin_enable: Autopin enabled successfully
