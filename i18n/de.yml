@@ -23,9 +23,9 @@ help: |
   /shipping — Wähle ein Paar des Tages
   /last — Paar des Tages vom Vortag
   /lang — Wähle eine Sprache für den Bot (im Chat nur für Admins)
-  /top — Top lovers
-  /autopin — Autopin (silently) when pair was chosen (bot must be admin)
-  /setminusers — Set minimum users to choose a pair
+  /top — Top Liebende
+  /autopin — Autopin (lautlos) wenn ein Paar gewählt wurde (Bot muss ein Admin sein)
+  /setminusers — Wähle die minimale Anzahl von Teilnehmern um ein Paar zu wählen
 start: |
   👋 Hallo! <b>SHIPPERING</b> (Paarung) ist ein Bot der ein Paar des Tages in deinem Chat wählt.
 
@@ -34,3 +34,35 @@ last_couples: Paar des Tages vom Vortag
 top_lovers: Am meisten im Paar
 empty_lovers_list: Bis jetzt gab es noch kein Paar.
 empty_last_list: Es gab noch keine Paare.
+set_min_users: |
+  Wähle die minimale Anzahl von Teilnehmern.
+  Momentan — %d
+admin_set_min_users: Nur Admins können die minimale Anzahl von Teilnehmern ändern.
+min_users: 'Minimale Anzahl von Teilnehmern — %d'
+times:
+  - mal
+  - mal
+chats:
+  - Chat
+  - Chats
+stats: |
+  Deine Statistiken:
+  Du wurdest %s gewählt.
+global_stats: |
+  Deine Statistiken:
+  Anzahl von Chats mit dem Bot — %d
+  Du wurdest %s von %s gewählt.
+autopin_enabled: Autopin ist aktiviert.
+autopin_disabled: Autopin ist deaktiviert.
+autopin_enable: Autopin wurde erfolgreich aktiviert.
+autopin_disable: Autopin wurde erfolgreich deaktiviert.
+autopin_button_enable: aktivieren
+autopin_button_disable: deaktivieren
+admin_autopin: Nur Admins können die Autopin Einstellungen ändern.
+ignore_enabled: You bist in der Ignorierliste.
+ignore_disabled: You bist nicht in der Ignorierliste.
+ignore_enable: Du wurdest der Ignorierliste hinzugefügt.
+ignore_disable: Du wurdest von der Ignorierliste entfernt.
+ignore_button_enable: füge mich hinzu
+ignore_button_disable: entferne mich
+pm_only: Dieser Befehl funktioniert nur in Privatnachrichten.
