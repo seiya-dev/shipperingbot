@@ -1,0 +1,68 @@
+name: Bahasa Indonesia
+couple: Pasangan hari ini
+shipped: Pasangan hari ini sudah dipilih
+update: Pasangan baru hari ini akan dipilih dalam
+few: Peserta tidak cukup untuk memilih pasangan.
+hours:
+  - jam
+  - jam
+minutes:
+  - menit
+  - menit
+seconds:
+  - detik
+  - detik
+select_lang: 👋 Pilih bahasa.
+set_lang: 👍 Bahasa Indonesia telah dipilih untuk obrolan ini. Terima kasih!
+chat_only: 😅 Maaf, perintah ini hanya untuk obrolan.
+admin_lang: Hanya admin yang dapat mengubah bahasa.
+help: |
+  💕 <b>SHIPPERING</b> adalah bot yang akan memilih pasangan hari ini di obrolan Anda. Setiap orang yang menulis pesan di obrolan Anda akan ditambahkan ke daftar kandidat untuk beberapa hari. Tambahkan bot ini ke obrolan Anda dan tunggu sampai mengumpulkan cukup calon sebelum mengirim perintah untuk mencari pasangan.
+  /help — Pesan ini
+  /shipping — Pilih pasangan hari ini
+  /last — Pasangan yang terakhir dipilih
+  /lang — Pilih bahasa untuk bot (Hanya untuk admin)
+  /top — Pecinta top
+  /mystats — Statistik kamu
+  /autopin — Autopin (diam-diam) ketika pasangan dipilih (bot harus admin)
+  /setminusers — Tetapkan peserta minimum untuk memilih pasangan
+  /ignoreme — Tambahkan diri Anda ke daftar abaikan (global, hanya berfungsi di pm)
+start: |
+  👋 Halo! <b>SHIPPERING</b> adalah bot yang akan memilih pasangan hari ini di obrolan Anda.
+  Gunakan /help untuk info lebih lanjut.
+last_couples: Pasangan yang terakhir dipilih
+top_lovers: Pecinta top
+empty_lovers_list: Pecinta top kosong.
+empty_last_list: Daftar pasangan pilihan terakhir kosong.
+set_min_users: |
+  Pilih jumlah minimum peserta.
+  Sekarang — %d
+admin_set_min_users: Hanya admin yang dapat mengubah jumlah minimum peserta.
+min_users: 'Jumlah minimum peserta — %d'
+times:
+  - kali
+  - kali
+chats:
+  - obrolan
+  - obrolan
+stats: |
+  Statistik kamu:
+  Kamu telah terpilih %s
+global_stats: |
+  Statistik kamu:
+  Total obrolan dengan bot — %d
+  Kamu telah terpilih %s in %s
+autopin_enabled: Autopin diaktifkan.
+autopin_disabled: Autopin dinonaktifkan.
+autopin_enable: Autopin berhasil diaktifkan.
+autopin_disable: Autopin berhasil dinonaktifkan.
+autopin_button_enable: Aktifkan
+autopin_button_disable: Nonaktifkan
+admin_autopin: Hanya admin yang dapat mengubah pengaturan autopin.
+ignore_enabled: Kamu berada dalam daftar yang diabaikan.
+ignore_disabled: Kamu tidak berada dalam daftar yang diabaikan.
+ignore_enable: Kamu ditambahkan ke daftar yang diabaikan.
+ignore_disable: Kamu dihapus dari daftar yang diabaikan.
+ignore_button_enable: Tambahkan saya
+ignore_button_disable: Hapus saya
+pm_only: Perintah ini hanya berfungsi di pm.
