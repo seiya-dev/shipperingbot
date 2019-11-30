@@ -1,0 +1,70 @@
+name: Türkçe
+couple: Günün Aşıkları
+shipped: Günün çifti zaten seçildi
+update: Günün yeni aşıklarını belirlemek için kalan süre --
+few: Bir çift seçmem için yeterli katılımcı yok.
+hours:
+  - saat
+  - saat
+minutes:
+  - dakika
+  - dakika
+seconds:
+  - saniye
+  - saniye
+select_lang: 👋 Dili seçiniz.
+set_lang: 👍 Dil bu grupta Türkçe olarak ayarlandı. Teşekkürler!
+chat_only: 😅 Üzgünüm, bu komut yalnızca grupta çalışır.
+admin_lang: Sadece yöneticiler dili değiştirebilir.
+help: |
+  💕 <b>SHIPPERING</b> grup içerisinden günün çiftini seçen bir bottur. Sohbete en az 1 mesaj yazmış herkesi aday listesine alır. Botu grubunuza ekleyin ve eşleşme komutunu kullanmadan önce yeterli sayıda aday olduğuna emin olun.
+
+  /help — Bu mesajı gösterir
+  /shipping — Günün çiftini seçer
+  /last — Son seçilen çifti gösterir
+  /lang — Botun dilini değiştirir (grup içerisinde adminler kullanabilir)
+  /top — En iyi aşıklar
+  /mystats — İstatistiklerini gösterir
+  /autopin — Çift seçildiğinde otomatik sabitler (bildirimsiz), (bot admin olmalıdır)
+  /setminusers — Bir çift seçmek için minimum katılımcıyı ayarlayın
+  /ignoreme — Kendinizi seçmelerden hariç tutun (herkes için, özel sohbette geçerlidir)
+start: |
+  👋 Selam! Ben <b>SHIPPERING</b>. Gruptaki  günün aşıklarını belirliyorum, bir nevi eros evet!
+
+  Daha fazla bilgi için /help komutunu kullan.
+last_couples: Son seçilen aşıklar
+top_lovers: En iyi aşıklar
+empty_lovers_list: En iyi aşıklar listesi boş.
+empty_last_list: Son seçilen aşıklar listesi boş.
+set_min_users: |
+  Minimum katılımcı sayısını seçin.
+  Şu anki — %d
+admin_set_min_users: Sadece yöneticiler minimum katılımcı sayısını değiştirebilir.
+min_users: 'Minimum katılımcı sayısı — %d'
+times:
+  - kere
+  - kere
+chats:
+  - grupta
+  - grupta
+stats: |
+  Your stats:
+  Toplam seçilme sayın - %s
+global_stats: |
+  Your stats:
+  Botun ile olduğun gruplar — %d
+  Toplam %s seçildin %s
+autopin_enabled: Oto-sabit aktif.
+autopin_disabled: Oto-sabit devredışı.
+autopin_enable: Oto-sabit başarıyla etkinleştirildi.
+autopin_disable: Oto-sabit başarıyla devredışı bırakıldı.
+autopin_button_enable: Aktif
+autopin_button_disable: Devredışı
+admin_autopin: Sadece yöneticiler oto-sabit ayarını değiştirebilir.
+ignore_enabled: Harici listedesin.
+ignore_disabled: Harici listede değilsin.
+ignore_enable: Seni hariç tutulacaklar listesine ekledim.
+ignore_disable: Harici listeden sildim.
+ignore_button_enable: Beni dahil et
+ignore_button_disable: Beni çıkar
+pm_only: Bu komut yalnızca özel sohbette çalışır.
