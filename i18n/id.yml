@@ -38,9 +38,7 @@ admin_set_min_users: Hanya admin yang dapat mengubah jumlah minimum peserta.
 min_users: 'Jumlah minimum peserta — %d'
 times:
   - kali
-  - kali
 chats:
-  - obrolan
   - obrolan
 stats: |
   Statistik kamu:
