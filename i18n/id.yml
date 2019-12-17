@@ -1,16 +1,13 @@
-name: Bahasa Indonesia
+name: Indonesian
 couple: Pasangan hari ini
 shipped: Pasangan hari ini sudah dipilih
 update: Pasangan baru hari ini akan dipilih dalam
 few: Peserta tidak cukup untuk memilih pasangan.
 hours:
   - jam
-  - jam
 minutes:
   - menit
-  - menit
 seconds:
-  - detik
   - detik
 select_lang: 👋 Pilih bahasa.
 set_lang: 👍 Bahasa Indonesia telah dipilih untuk obrolan ini. Terima kasih!
